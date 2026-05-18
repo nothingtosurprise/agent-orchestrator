@@ -1,6 +1,6 @@
 {
   "name": "@aoagents/ao-plugin-notifier-discord",
-  "version": "0.8.0",
+  "version": "0.0.0-nightly-ff0c3b741df05a1331431d1e749ecf1aef9240d2",
   "description": "Notifier plugin: Discord webhook notifications",
   "license": "MIT",
   "type": "module",
